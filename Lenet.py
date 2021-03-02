@@ -97,7 +97,7 @@ class LeNet5:
 		self.model.fit(X_train,Y_train,steps_per_epoch=10,epochs=epochs)
 
 
-	def model_predict(X):
+	def model_predict(self,X):
 		return(self.model.predict(X))
 
 
