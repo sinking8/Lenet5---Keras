@@ -7,7 +7,6 @@ The network will consist of a series of convolution layers, pooling layers and a
 
 We show how to implement various forms of gradient descent and show how to define the `Exponential Linear Unit (ELU)` as described in <em>Fast and accurate deep network learning by exponetial lienar units</em> by Clevert et al. 
 
-A full describtion can be found in the ipython notebook located in the ipython notebook `LeNet5.ipynb`.
 
 # References
 <ol>
